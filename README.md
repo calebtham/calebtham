@@ -11,8 +11,6 @@
 - 💻 I'm most experienced in Python, Java, and JavaScript.
 - 🧐 My main interests include Artificial Intelligence and Full Stack Development.
 
-<br>
-
 <h3>🔗 Links: </h3>
 <div>
     <a href="mailto:calebtham02@gmail.com" target="blank"><img 
