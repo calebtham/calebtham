@@ -30,10 +30,10 @@
 class CalebTham():
     
   def __init__(self):
-    self.name = "Caleb Tham";
-    self.username = "calebtham";
-    self.location = "Dorset, UK";
-    self.website = "https://calebtham.github.io/me/";
+    self.name = "Caleb Tham"
+    self.username = "calebtham"
+    self.location = "Dorset, UK"
+    self.website = "https://calebtham.github.io/me/"
   
   def __str__(self):
     return self.name
