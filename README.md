@@ -9,7 +9,7 @@
 
 - 🏫 A third year Computer Science MEng student at the University of Warwick.
 - 💻 I'm most experienced in Python, Java, and JavaScript.
-- 🧐 My main interests include Artificial Intelligence and Full Stack Development.
+- 🧐 My main interests include AI/ML and Full Stack Development.
 
 <h3>🔗 Links: </h3>
 <div>
