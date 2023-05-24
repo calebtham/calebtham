@@ -4,7 +4,7 @@
 
 <h3>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">
-    Hello world! I'm Caleb Tham.
+    Hello world!
 </h3>
 
 - 🏫 A third year Computer Science MEng student at the University of Warwick.
