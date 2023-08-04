@@ -23,22 +23,3 @@
         src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         alt="website" height="30" width="105" /></a>
 </div>
-
-<br>
-
-```python
-class CalebTham():
-    
-  def __init__(self):
-    self.name = "Caleb Tham"
-    self.username = "calebtham"
-    self.location = "Dorset, UK"
-    self.website = "https://calebtham.github.io/me/"
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == "__main__":
-    me = CalebTham()
-    print(f"Hello world! I'm {me}.")
-```
