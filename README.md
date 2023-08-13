@@ -8,7 +8,8 @@
 </h3>
 
 - 🏫 A third year Computer Science MEng student at the University of Warwick.
-- 💻 I'm most experienced in Python, Java, and JavaScript.
+- 💼 Experience as a Software Engineer Intern at JPMorgan Chase & Co. and as a Software Developer at Progressive Equity Research
+- 💻 I'm most experienced in Python, Java, and TypeScript/JavaScript.
 - 🧐 My main interests include AI/ML and Full Stack Development.
 
 <h3>🔗 Links: </h3>
@@ -20,6 +21,6 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin" height="30" width="110" /></a>
     <a href="https://calebtham.github.io/me/" target="blank"><img 
-        src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-        alt="website" height="30" width="105" /></a>
+        src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"
+        alt="website" height="30" width="120" /></a>
 </div>
