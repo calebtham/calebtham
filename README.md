@@ -7,7 +7,7 @@
     Hello world!
 </h3>
 
-- 🏫 A third year Computer Science MEng student at the University of Warwick.
+- 🏫 A final year Computer Science MEng student at the University of Warwick.
 - 💼 Work experience as a Software Engineer Intern at JPMorgan Chase & Co. and as a Software Developer at Progressive Equity Research Ltd.
 - 💻 Most skilled in Python, Java, and TypeScript/JavaScript.
 - 🧐 My main interests include AI/ML and Full Stack Development.
