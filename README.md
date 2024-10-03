@@ -9,7 +9,7 @@
 
 - 💼 Graduate Software Engineer at Starling Bank. Previously at JPMorgan and Progressive.
 - 🎓 MEng Computer Science at the University of Warwick. First Class Honours. Awarded "Best overall graduating MEng student in Computer Science".
-- 💻 Most skilled in Python, Java, and TypeScript/JavaScript.
+- 💻 Most skilled in Python, Java, and TypeScript/JavaScript (React).
 
 <h3>🔗 Links: </h3>
 <div>
